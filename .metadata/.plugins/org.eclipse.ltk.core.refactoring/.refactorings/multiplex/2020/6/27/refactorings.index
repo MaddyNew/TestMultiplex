@@ -1,0 +1,15 @@
+1593425484676	Delete element
+1593425517486	Delete element
+1593425639205	Rename type 'MutiplexService'
+1593428587330	Rename type 'MutiplexController'
+1593428670406	Rename package 'com.micro.mutiplex'
+1593428682423	Rename package 'com.micro.mutiplex.controller'
+1593428691417	Rename package 'com.micro.mutiplex.dao'
+1593428713325	Rename package 'com.micro.mutiplex.document'
+1593428721982	Rename package 'com.micro.mutiplex.dto'
+1593428732024	Rename package 'com.micro.mutiplex.service'
+1593429542940	Rename type 'MutiplexDetailDto'
+1593429562529	Rename type 'Mutiplex'
+1593429589566	Rename type 'RegisterMutiplexDto'
+1593429700678	Rename type 'MutiplexRepository'
+1593429925960	Rename type 'Multiplex'

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=movie/src\/main\/java&lt;com.micro.movie.service{MovieService.java[MovieService" modifiers="513" timestamp="1595595233403"/>
+<typeInfo handle="=user/src\/main\/java&lt;com.micro.user.service{UserService.java[UserService" modifiers="513" timestamp="1594060166614"/>
+<typeInfo handle="=user/C:\/Program Files\/Java\/jre1.8.0_251\/lib\/rt.jar&lt;java.nio.file.attribute(UserPrincipal.class[UserPrincipal" modifiers="1537" timestamp="1592332210392"/>
+<typeInfo handle="=multiplex/src\/main\/java&lt;com.micro.multiplex.service{ScreenService.java[ScreenService" modifiers="513" timestamp="1595485204494"/>
+<typeInfo handle="=multiplex/src\/main\/java&lt;com.micro.multiplex.service{AllotedMoviesService.java[AllotedMoviesService" modifiers="513" timestamp="1595143448828"/>
+</typeInfoHistroy>
